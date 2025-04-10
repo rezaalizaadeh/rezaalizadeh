@@ -1,28 +1,41 @@
 # 👋 Hi, I'm Reza Alizadeh
 
-🎓 B.Sc. in Information Engineering  
+🎓 B.Sc. in Information Engineering – University of Padua  
 💡 Passionate about Machine Learning, NLP, and Embedded AI  
-🌱 Exploring how AI can solve real-world challenges — from detecting dolphin sounds to analyzing human language
+🌱 I explore how AI can solve real-world challenges — from detecting dolphin sounds in marine environments to analyzing human speech and text.
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, MATLAB, C++, Java
-- **ML Tools**: TensorFlow, Scikit-learn, Pandas, NumPy
-- **Embedded**: TinyML, Arduino Nano 33 BLE, TFLite
-- **Tools**: Jupyter Notebook, Git, Figma
+- **Languages**: Python, MATLAB, C++, Java  
+- **ML & Data Tools**: Scikit-learn, TensorFlow, Pandas, NumPy, Librosa  
+- **Embedded**: Arduino Nano 33 BLE, TinyML, TensorFlow Lite  
+- **Other**: Jupyter Notebook, Git, Figma
 
 ---
 
 ## 🚀 Featured Projects
+
 - **🐬 Dolphin Sound Detection with Embedded ML**  
-  2D-CNN deployed on Arduino Nano 33 BLE using TensorFlow Lite.
+  Deployed a 2D-CNN model using TFLite on Arduino Nano 33 BLE to detect dolphin clicks vs background noise.
 
 - **🎤 Speech Emotion Recognition**  
-  Classified emotions from raw audio using MFCCs and traditional ML pipelines.
+  Built an ML pipeline to classify emotional states from voice recordings using MFCCs and classical models.
 
-- **📊 NLP Experiments**  
-  Sentiment analysis, text classification, and preprocessing in Python.
+- **📦 Amazon Review Sentiment Analysis**  
+  NLP project for analyzing and classifying product reviews using tokenization and logistic regression.
+
+- **🎬 IMDb Movie Review Classifier**  
+  Built a text classification model using bag-of-words and TF-IDF features to predict sentiment.
+
+- **📩 Spam Email Detection**  
+  Trained and evaluated Naive Bayes and SVM models to filter spam emails based on message content.
+
+- **📈 Spotify Data Analysis**  
+  Explored trends in song popularity using Spotify’s dataset and visualized metrics like tempo, danceability, and energy.
+
+- **🚢 Titanic Survival Prediction**  
+  Classic classification problem — applied data cleaning, feature engineering, and logistic regression to predict survival outcomes.
 
 ---
 
