@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Reza Alizadeh
 
 🎓 B.Sc. in Information Engineering – University of Padua  
-💡 Passionate about Machine Learning, NLP, and Embedded AI  
-🌱 I explore how AI can solve real-world challenges — from detecting dolphin sounds in marine environments to analyzing human speech and text.
-
----
+💡 Passionate about Artificial Intelligence, Deep Learning, and Data Analysis  
+🚀 I enjoy building intelligent systems that turn data into insights and smart solutions — from training deep learning models to exploring efficient AI deployment.
 
 ## 🔧 Tech Stack
 
