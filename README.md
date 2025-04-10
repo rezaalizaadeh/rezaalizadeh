@@ -9,7 +9,7 @@
 - **Languages:** Python, MATLAB, C++, Java, Bash  
 - **ML & Data Tools:** Scikit-learn, TensorFlow, TensorFlow Lite, Pandas, NumPy, Librosa, Matplotlib, Seaborn  
 - **NLP & Text Processing:** NLTK, SpaCy, TF-IDF, Bag of Words  
-- **Audio & Signal Processing:** MFCCs, Spectrograms, Soundfile, Pydub  
+- **Audio & Signal Processing:** MFCCs,Mel Spectrogram ,Spectrograms, Soundfile, Pydub  
 - **Embedded & IoT:** Arduino Nano 33 BLE, TinyML, Edge Impulse  
 - **Development & Tools:** Jupyter Notebook, Google Colab, Git, GitHub, Figma, VS Code
 ---
