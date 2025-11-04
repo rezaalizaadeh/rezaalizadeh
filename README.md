@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Reza Alizadeh
 
-🎓 B.Sc. in Information Engineering – University of Padua  
-💡 Passionate about Artificial Intelligence, Deep Learning, and Data Analysis  
-🚀 I enjoy building intelligent systems that turn data into insights and smart solutions — from training deep learning models to exploring efficient AI deployment.
-
+🎓 MSc Data Science @ University of Padua  
+🤖 Machine Learning & AI Engineer  
+📊 End-to-End ML | NLP | Deep Learning | Cloud (GCP/AWS)
 ## 🔧 Tech Stack
 
 - **Languages:** Python, MATLAB, C++, Java, Bash  
