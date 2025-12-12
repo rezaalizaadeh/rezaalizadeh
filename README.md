@@ -1,34 +1,51 @@
-# Hi, I'm Reza Alizadeh
+<h1 align="center">Reza Alizadeh</h1>
+<p align="center">
+  MSc Data Science @ University of Padua · Machine Learning / Deep Learning · NLP · Deployment
+</p>
 
-MSc Data Science @ University of Padua.  
-Interested in applied ML (NLP / audio) and shipping models as usable products (APIs, demos).
+<p align="center">
+  <a href="https://www.linkedin.com/in/reza-alizadeh-6a5847244/">LinkedIn</a> ·
+  <a href="mailto:rezaalizaadeh@gmail.com">Email</a> ·
+  <a href="https://github.com/rezaalizaadeh">GitHub</a>
+</p>
 
-## What I do
-- Build end-to-end ML pipelines: data → training → evaluation → packaging/deployment
-- Focus on reproducible work (clear instructions, environments, structured repos)
+---
 
-## Tech (curated)
-- **Languages:** Python, R, SQL  
-- **ML:** scikit-learn, PyTorch, TensorFlow  
-- **NLP:** spaCy, Transformers  
-- **Deployment:** FastAPI, Docker, Streamlit  
-- **Workflow:** Git/GitHub, Jupyter, VS Code
+## Profile
+I build end-to-end machine learning solutions—from data preparation and modeling to evaluation and deployment.
+My current interests are applied NLP, audio ML, and production-oriented ML workflows.
 
-## Featured projects
-- **Snore Detection (Audio ML)** — CNN-based classification using MFCC features.  
-  _Tech:_ Python, Librosa, TensorFlow, scikit-learn
+---
 
-- **Amazon Review Sentiment (NLP)** — sentiment classification pipeline with TF-IDF + Logistic Regression baseline.  
-  _Tech:_ Python, pandas, scikit-learn
+## Core Skills
+**Languages:** Python · SQL · R · C++  
+**Machine Learning:** scikit-learn · XGBoost · LightGBM  
+**Deep Learning:** PyTorch · TensorFlow  
+**NLP:** TF-IDF · spaCy · NLTK · Transformers  
+**Audio ML:** Librosa (MFCC, Mel-spectrograms)  
+**Deployment:** FastAPI · Docker · Streamlit  
+**Experiment / Workflow:** MLflow · Git/GitHub · Jupyter · VS Code  
+**Cloud:** GCP · AWS · Azure
 
-- **Spam Email Detection** — Naive Bayes/SVM text classification.  
-  _Tech:_ Python, NLTK, scikit-learn
+---
 
-> Note: I keep simpler learning projects (e.g., Titanic) in separate repos, but I don’t feature them here.
+## Featured Work
+### 🎧 Snore Detection (Audio Deep Learning)
+CNN-based classification of snore vs. non-snore events using MFCC features.  
+**Stack:** Python, Librosa, TensorFlow, scikit-learn
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/reza-alizadeh-6a5847244/
-- Email: mailto:rezaalizaadeh@gmail.com
+### 🛒 Amazon Review Sentiment (NLP)
+End-to-end sentiment classification pipeline (baseline: TF-IDF + Logistic Regression).  
+**Stack:** Python, pandas, scikit-learn
+
+### 📩 Spam Email Detection
+Text classification using Naive Bayes and SVM with preprocessing and evaluation.  
+**Stack:** Python, NLTK, scikit-learn
+
+> I keep smaller learning projects in separate repositories; this profile highlights my most representative work.
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-alizadeh-6a5847244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rezaalizaadeh@gmail.com) 
 
