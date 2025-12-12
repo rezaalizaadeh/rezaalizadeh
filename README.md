@@ -8,7 +8,7 @@ Interested in applied ML (NLP / audio) and shipping models as usable products (A
 - Focus on reproducible work (clear instructions, environments, structured repos)
 
 ## Tech (curated)
-- **Languages:** Python, SQL  
+- **Languages:** Python, R, SQL  
 - **ML:** scikit-learn, PyTorch, TensorFlow  
 - **NLP:** spaCy, Transformers  
 - **Deployment:** FastAPI, Docker, Streamlit  
